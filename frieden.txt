@@ -6,10 +6,14 @@ Aus "Kriege und Werte" - Aufsätze von Hans Joas zur Gewaltgeschichte und ihrer
 soziologischen Reflexion im 20. Jahrhundert.
 
 Hans Joas stellt 5 Theorien vor, die in den letzten Jahrhunderten entwickelt wurden
-und von der Geschichte nicht widerlegt wurden. Daneben werden zwei weitere Ideen
-zum Frieden[1] vorgestellt, welche sich in der Geschichte als nicht durchsetzungsfähig
-erwiesen haben. Allen Theorien gemeinsam ist jedoch, dass die Bedingungen welche sie
-fordern, bis heute nicht vollkommen realisiert sind.
+und von der Geschichte nicht widerlegt sind, was gewiss nicht als Fakt
+verstanden werden soll, sondern als Aufforderung sie genauer zu untersuchen
+und darüber zu dikutieren, inwieweit der Frieden, den wir erleben
+dürfen und auf den alle Menschen ein Recht haben, darauf beruht.
+Darüberhinaus werden zwei weitere Ideen zum Frieden[1] vorgestellt,
+welche sich in der Geschichte als nicht durchsetzungsfähig
+erwiesen haben. Allen Theorien gemeinsam ist jedoch, dass die
+Bedingungen welche sie fordern, bis heute nicht vollkommen realisiert sind.
 
 Republikanische Theorie
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -18,10 +22,14 @@ Republikanische Theorie
 
 Als entscheidend wird der Gedanke angesehen, dass in einer "Republik" alle Menschen
 über die Poltik also auch über die Außenpolitik mitbestimmen können. Da die Mehrheit
-aber keinen Nutzen, sondern nur Schaden und auch, zieht man die anderen Überlegungen
-seiner Philosophie hinzu, die Verletzungen der moralischen und vernünftigen Grundsätze,
+aber keinen Nutzen am Krieg, sondern nur Schaden durch ihne erleidet,
+wird sich eine Republik sich für den Frieden entscheiden. Die
+zwischenmenschlichen Verbindungen würden Kriege viel stärker hemmen,
+wenn das Volk darüber mit entscheiden kann, ist ein weeiteres
+Argument, dass als Begründung dieser Theorie dient. Zieht man die Überlegungen
+seiner Philosophie hinzu, bedeuten die Verletzungen der moralischen und vernünftigen Grundsätze,
 welche ein Krieg mit sich bringt, stärker im gesellschaftlichen Bewusstsein wirksam 
-sind.
+sind, wenn dieses alle Menschen in seine Entscheidungen einbezieht.  
 
 Das Problem ist, dass dies selbst in den heutigen Demokratien ein erst teilweise verwirklichtes
 Ideal ist. Eine zentralisierte Macht über die Außenpolitik erhöht das Kriegsrisiko stark und
@@ -50,7 +58,34 @@ Ungleiche Partner und unfreier Handel führen zu mehr Ungleichgewicht.
 * Aktuell: Handelsmonopole diktieren Preise (Cash Crops, Rohstoffe) soziales Elend lässt Gewalt
      für viele Menschen nicht aus dem Alltag verschwinden
 
+Die auf der obersten wirtschaflich-politischen Ebene geführten Gespräche über
+die Transatlantische Partnerschaft für Handel und Investitionen, haben
+das Thema Freihandel wieder stärker in das Blickfeld der öffentlichen
+Diskussion gerückt. Sehr interessant ist auch die Diskussion, die
+in den Jahren vor und während des ersten Weltkriegs geführt wird, über die Emil
+Lederer in seinem Essay "Probleme des Sozialismus im Zeitalter des
+sich organisierenden Kapitalismus: am Beispiel der Handelspolitik und
+des Plans einer europäischen Wirtschaftsgemeinschaft" [3] aus dem Jahr
+1916 berichtet.
+
+Wir werden diesen Pionieren der Ökonomischen Theorie es kaum zum Vorwurf
+machen können, dass der realexistierende Kapitalismus, immer wieder
+ungleiche und ungerechte Handelsbeziehungen bevorzugt hat. Ein
+Grund ist vermutlich die Bedeutung einzelner Individuen mit einer
+begrenzten Lebenszeit im bisherigen Kapitalismus, die ihr Handeln auf
+kurzfristig zu erzielende Maximalgewinne ausgerichtet hatten und haben. Der
+Kapitalismus heute, der inzwischen viel stärker von Institutionen bestimmt wird,
+ist möglicherweise in der Lage ein Interesse dafür zu entwickeln,
+diese Theorie zu verwirklichen. Allerdings kann heute eine größere
+Komplexität des Gesamtsystems Wirtschaft angenommen werden, weshalb
+hier auch interessante Fragestellungen für aktuelle Forschung in
+diesem Bereich zu finden sind. Ob diese Theorie tatsächlich noch
+eine begründete Relevanz in der heutigen Welt hat oder sie als Ganzes in
+Frage zu stellen ist, würde ich zu diesen Fragen zählen. 
+  
 
 [1] H. J. Krysmanski "SOZIOLOGIE UND FRIEDEN" - http://www.uni-muenster.de/PeaCon/arcdoce/texts/ww00in.html
 [2] Andrew Feinstein: Waffenhandel. Das globale Geschäft mit dem Tod
-
+[3] Emil Lederer: Kapitalismus, Klassenstruktur und Probleme der
+Demokratie in Deutschland 1910-1940 ; Helmut Berding, Jürgen Kocka,
+Hans-Ulrich Wehler Hrsg.; Göttingen 1979  
