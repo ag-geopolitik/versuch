@@ -4,7 +4,8 @@
 ====================================================================
 
 - Betrachtung aus Volkwirtschaftlicher Sicht
-  (Das erste Kapitel stellte eher die Betriebswirtschaftliche Sichtweise dar.)
+  (Das erste Kapitel stellte eher die Betriebswirtschaftliche/Mikroökonomische
+   Sichtweise dar.)
 - Wachstumsprozess kann nicht einfach summiert werden
    * Absatzsteigerung durch Konkurrenz beinhaltet auch Verluste
    * Neue Arbeitskräfte und Ressources können durch Ausfall von
@@ -18,13 +19,21 @@ stellt dieser Begriff allenfalls in der realen Wirklichkeit dar?´´
 // eine Träumerin war, die andere Wirklichkeiten kannte. Erst wundert
 // diese Formulierung, aber so gesehen ist es eher schade, daß heute
 // dieses Attribut im Zusammenhang von Wirklichkeit weggelassen wird.
-
+//
+// Wahrscheinlicher ist aber der Gegensatz zur theoretischen Wirklichkeit
+// die Erkenntnisgegenstand der Ökonomie geworden war. Das hat Adam Smith
+// nicht gesucht, da seine Theorie die Praxis wiedergeben und erklären
+// wollte. Anders die Physiokraten, deren Ziel eine allgemeinültige
+// Formel für die wirtschaftlichen Prozesse war. [LEDERER31]
+ 
 "Das entschlüsselte Tableau économique"
 ---------------------------------------
 
-* Quesnay als bejaht die Frage - es war ja das Objekt, dass er mit
+* Quesnay bejaht die Frage - es war ja ein wichtiges Objekt, dass er mit
   tableau économique dargestellt hat.
-# War er wirklich der erste der die Zirkulation erkannte?
+
+# War er wirklich der erste der die Zirkulation als wichtig genug
+# ansah um sie hervorzuheben?
 
 // Im wesentlichen war das wirtschaftliche Denken linear geprägt, also
 // ein Wirtschaften wie es anschaulich im Märchen von "Hans im Glück"
@@ -75,11 +84,11 @@ Falsche Theorie?:
 // Das ist einfach weniger zirkulär und liberaler gedacht, da k immer wieder
 // neu aus m und auch v neu gebildet werden muss. Arbeitskräfte sind bei A.Smith
 // als selbständig handelnde Einheiten gedacht. Ein Kutscher zahlt von seinem
-// Einkommen nicht nur die Nahrung und das Haus seiner Familie ab, sonder auch
+// Einkommen nicht nur die Nahrung und das Haus seiner Familie ab, sondern auch
 // das Zaumzeug für das Pferd und anderes.
 
 Für die Beantwortung der Frage nach der Repoduktion des Gesamtkapitals
-ist die Darstellun von A.Smith möglicherweise ungünstiger.
+ist die Darstellung von A.Smith möglicherweise ungünstiger.
 
 // Ich sehe das eher als gutes Beipiel, dafür dass ökonomische Analysen und
 // Gesetze eben keinen universalen Character haben, sondern immer im Kontext
@@ -122,7 +131,7 @@ Say hat eine Theorie die nur von gesellschaftlichem Einkommen und nicht
 von Kapital handelt. Gesellschaftliches Kapital wird noch von verschiedenen
 anderen Ökonomen in Frage gestellt.
 
-Die Theorie wid anhand von Uhrmachern erläutert. RL kritisiert, dass ein
+Die Theorie wird anhand von Uhrmachern erläutert. RL kritisiert, dass ein
 spezieller Wirtschaftsbereich als Vorbild für eine allgemeine Theorie wird. 
 
 Ricardo
