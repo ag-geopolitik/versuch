@@ -1,0 +1,134 @@
+
+[Notizen zu Kapitel 2]
+,,Die Analyse des Reproduktionprozesses bei Quesnay und Adam Smith´´
+====================================================================
+
+- Betrachtung aus Volkwirtschaftlicher Sicht
+  (Das erste Kapitel stellte eher die Betriebswirtschaftliche Sichtweise dar.)
+- Wachstumsprozess kann nicht einfach summiert werden
+   * Absatzsteigerung durch Konkurrenz beinhaltet auch Verluste
+   * Neue Arbeitskräfte und Ressources können durch Ausfall von
+     Konkurrenten gewonnen werden - // Effizienzsteigerung ?//
+- so entstehen lokale Verschiebungen statt gesamtgesell. Wachstum
+
+,,Gibt es denn überhaupt ein Gesamtkapital der Gesellschaft und was
+stellt dieser Begriff allenfalls in der realen Wirklichkeit dar?´´
+
+// Ich interpretiere die reale Wirklichkeit so, dass Rosa Luxemburg
+// eine Träumerin war, die andere Wirklichkeiten kannte. Erst wundert
+// diese Formulierung, aber so gesehen ist es eher schade, daß heute
+// dieses Attribut im Zusammenhang von Wirklichkeit weggelassen wird.
+
+"Das entschlüsselte Tableau économique"
+---------------------------------------
+
+* Quesnay als bejaht die Frage - es war ja das Objekt, dass er mit
+  tableau économique dargestellt hat.
+# War er wirklich der erste der die Zirkulation erkannte?
+
+// Im wesentlichen war das wirtschaftliche Denken linear geprägt, also
+// ein Wirtschaften wie es anschaulich im Märchen von "Hans im Glück"
+// dargestellt wird.
+
+* Zirkulation findet zwischen großen bestimmten Gesellschaftsklassen statt
+   - der produktiven Klasse - die Landwirtschaft
+   - der sterilen Klasse - Wirtschaft außerhalb der Landwirtschaft
+   - Grundbesitzer u.a. - die Erträge ohne Aktivität erhalten
+
+# Rosa Luxemburg verwendet den modernen Beriff _Landwirt_.
+
+>> P produziert
+>>> 2/5 verwendet P selbst als Kapital für die Produktion
+>>> 1/5 geht im Produktionsprozess verloren
+>>> 2/5 geht als Reingewinn an G
+>> G konsumiert
+>>> G kauft mit 1/5 von P Artikel ein
+>>> G kauft mit 1/5 von S Artikel ein
+>> P konsumiert
+>>> P kauft mit dem 1/5 das von G zurückkommt Waren bei S
+>> S konsumiert
+>>> S kauft für 1/5 Lebensmittel bei P ein
+>>> S kauft für 1/5 "Rohstoffe" bei P ein? 
+
++ Bedingung eins - unbeschränkter Austausch ist möglich
++ Bedingung zwei - nur G zahlt Steuern
+
+# Die Frage der Rohstoffe - Bergbau zählt wohl doch zu P?
+# Nur dann wäre die Zirkulation vollzählig aber nicht stimmig.
+
+--> In der Konsequenz zeigt dass, das Kapital zum 
+    Ausgangspunkt zurückfließt und die Produktion von
+    neuem beginnen kann.
+
+Für Quesnay wird festestellt, dass nur die prduktive Klasse einen Wirtschafts-
+kreislauf produziert. Das Handeln der anderen Klassen ist linear, also ohne
+festes Kapital, welches ersetzt werden müsste.
+
+Adam Smith
+----------
+
+Falsche Theorie?: 
+  - Wert der Waren = v + m (Arbeitslohn(v) + Kapitalgewinn(m) + Bodenrente(m))
+  - die konstanten Kosten fließen nicht mit ein
+--> damit kann kein Gesamtkapital gebildet werden, dass Reproduktion erlaubt
+
+// Das ist einfach weniger zirkulär und liberaler gedacht, da k immer wieder
+// neu aus m und auch v neu gebildet werden muss. Arbeitskräfte sind bei A.Smith
+// als selbständig handelnde Einheiten gedacht. Ein Kutscher zahlt von seinem
+// Einkommen nicht nur die Nahrung und das Haus seiner Familie ab, sonder auch
+// das Zaumzeug für das Pferd und anderes.
+
+Für die Beantwortung der Frage nach der Repoduktion des Gesamtkapitals
+ist die Darstellun von A.Smith möglicherweise ungünstiger.
+
+// Ich sehe das eher als gutes Beipiel, dafür dass ökonomische Analysen und
+// Gesetze eben keinen universalen Character haben, sondern immer im Kontext
+// ihres Wirtschaftsraumes interpretiert werden müssen.
+
+// k war zu dieser Zeit eben noch nicht so wichtig!
+
+// Da der Gedanke der Entwicklung der Produktivkräfte ein Kern der marxistischen
+// Theorie ist, sehe ich die an A.Smith geübte Kritik, als merkwürdig dogmatisch
+// formuliert. Die kompakte Darstellung ist aber hervorragend. 
+
+- Was für den einen Kapital ist, ist für den anderen Einkommen und umgekehrt.
+   * Arbeitslöhne
+   * Maschinen
+- Unterscheidung von fixem und zirkulierendem Kapital
+- Unterscheidung von privatem und gesellschaftlichen Kapital
+
+Das gesellschaftliche zirkulierende Kapital leistet Beitrag zum Wohlstand, nicht
+aber das private zirkulierende Kapital. (siehe Seite 28 um das nicht misszuverstehen.)
+
+- Nicht nur die Landwirtschaft leistet Beitrag zum gesellschaftlichen Wohlstand.
+Aber A. Smith ist nicht konsequent darin, die physiokratische Schule zu verlassen.
+Seine Theorie steht also zum nur zum Teil im Widerspruch dazu, ohne dass dies
+näher erläutert wird.
+
+Die Darstellung der Theorie durch RL ist so gut, dass ich dadurch ihr eigenes
+Urteil revidieren würde. In dem ökonomischen Raum in dem sie gebildet wurde, war
+sie wirklich recht umfassend. So umfassend, dass wir heute noch einiges erklären
+können. 
+
+Sind wir seit 1780 unfreier geworden? Sind die neuen Selbstständigen in einer
+Analogie stehend oder gar eine Rückkehr zu Verhältnissen, die am Ende des 18Jh. 
+galten?
+
+Weitere Theorien
+----------------
+Say
+~~~
+Say hat eine Theorie die nur von gesellschaftlichem Einkommen und nicht
+von Kapital handelt. Gesellschaftliches Kapital wird noch von verschiedenen
+anderen Ökonomen in Frage gestellt.
+
+Die Theorie wid anhand von Uhrmachern erläutert. RL kritisiert, dass ein
+spezieller Wirtschaftsbereich als Vorbild für eine allgemeine Theorie wird. 
+
+Ricardo
+~~~~~~~
+Arbeitswerttheorie von Ricardo als Überwindung der physiokratischen Schule
+ 
+[Notizen zu Kapitel 3]
+,,Kritik der Smithschen Analyse´´
+=================================
