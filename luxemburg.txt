@@ -65,13 +65,19 @@ stellt dieser Begriff allenfalls in der realen Wirklichkeit dar?´´
 # Die Frage der Rohstoffe - Bergbau zählt wohl doch zu P?
 # Nur dann wäre die Zirkulation vollzählig aber nicht stimmig.
 
---> In der Konsequenz zeigt dass, das Kapital zum 
-    Ausgangspunkt zurückfließt und die Produktion von
+--> In der Konsequenz zeigt das tableau économique, dass 
+    Kapital zum Ausgangspunkt zurückfließt und die Produktion von
     neuem beginnen kann.
 
-Für Quesnay wird festestellt, dass nur die prduktive Klasse einen Wirtschafts-
+Für Quesnay wird festestellt, dass nur die produktive Klasse einen Wirtschafts-
 kreislauf produziert. Das Handeln der anderen Klassen ist linear, also ohne
 festes Kapital, welches ersetzt werden müsste.
+
+Leider wird die Besonderheit der physiokratischen Lehre nicht
+stärker betont. Sie steht für mich nicht im Widerspruch zu den
+anderen Theorien, sondern verwendet einen eigenen Blickwinkel der
+weniger stark auf Menschen und die Arbeit, sondern auf den im
+Wirtschaftskreislauf erzeugten Gütern beruht.
 
 Adam Smith
 ----------
@@ -111,7 +117,7 @@ aber das private zirkulierende Kapital. (siehe Seite 28 um das nicht misszuverst
 
 - Nicht nur die Landwirtschaft leistet Beitrag zum gesellschaftlichen Wohlstand.
 Aber A. Smith ist nicht konsequent darin, die physiokratische Schule zu verlassen.
-Seine Theorie steht also zum nur zum Teil im Widerspruch dazu, ohne dass dies
+Seine Theorie steht also nur zum Teil im Widerspruch dazu, ohne dass dies
 näher erläutert wird.
 
 Die Darstellung der Theorie durch RL ist so gut, dass ich dadurch ihr eigenes
@@ -141,3 +147,62 @@ Arbeitswerttheorie von Ricardo als Überwindung der physiokratischen Schule
 [Notizen zu Kapitel 3]
 ,,Kritik der Smithschen Analyse´´
 =================================
+
+[Notizen zu Kapitel 25]
+,,Widersprüche des Schemas der erweiterten Reproduktion´´
+=========================================================
+
+Die Frage ist, wer die zusätzlich produzierten Waren abnimmt,
+damit der Mehrwert realisiert werden kann?
+
+// Meine Antwort darauf lautet niemand, weil es zwar stimmt, dass
+// Kapital akkumuliert wird, aber eben nur im gerade möglichen Ausmaß
+// für die Steigerung der Produktion. Es wird ebenfalls für die
+// Steigerung der Effizienz akkumuliert werden, da das Ziel nur in
+// wachsendem Profit liegt und eine gesteigerte Produktion nur einen
+// Anteil aber nicht das Ganze Anwachsen des Profits ausmacht. Die Stufe 
+// der Produktion zur Befriedigung von Bedürfnissen ist der Kapitalismus 
+// schon zur Zeit seiner Machtübernahme entwachsen. Die erste schlimme
+// Absatzkrise herrschte von 1815 bis 1819.
+
+// Da nicht der Bedarf das Maß des Wirtschaftens ist, können Bedürfnisse
+// künstlich und technisch erzeugt werden. Dadurch kann in Grenzen ein
+// erweiterter Absatzmarkt bewirtschaftet werden. Auch die notwendigen
+// Wandlungen und Anpassungen lassen einen Teil des akkumulierten Kapitals 
+// nicht für eine erhöhte Produktionsmenge zur Verfügung stehen.
+
+// Die Theorie vom dritten Marktteilnehmer hat mit dem 3.Sektor eine
+// produktive Umsetzung in der Realität erfahren. Interessant ist, dass 
+// er nur teilweise kapitalistisch wirtschaften kann, da die Tätigkeit
+// obwohl eine soziale Notwendigkeit, mit Gewinnstreben ausgeführt zu 
+// inhumanen, unmoralischen Handlungen führen kann.
+
+[Notizen zu Kapitel 27]
+,,Der Kampf gegen die Naturalwirtschaft´´
+=========================================
+Theoretischer Teil
+------------------
+Kapitalakkumulation arbeitet sich in 3 Phasen voran:
+* bekämpft und beseitigt Naturalwirtschaft
+* drängt Warenwirtschaft in Nischen
+* führt zu imperialistischer Konkurrenz
+
+Kapitalismus benötigt nichtkapitalistische Bevölkerung,
+* als Absatzmarkt für den Mehrwert
+* für die Beschaffung von Produktionsmitteln
+* als Arbeitskräfte für das Lohnsystem
+
+Naturalwirtschaften sind für kap. Wirtschaft nicht nützlich,
+* es wird für den Eigenbedarf produziert
+* wenig oder kein Handel
+* natürliche Ressourcen sind in soziales Gefüge eingebunden
+  und daher vor Ausbeutung geschützt
+* Arbeitskräfte unterliegen starken Bindungen
+
+Dieser Prozess ist also ein integraler Bestandteil des
+Kapitalismus. Von diesem Argument wird in der späteren Diskussion
+wenig Gebrauch gemacht.  
+
+# Bauernlegen - Enteignung von freien Bauern und Eingliederung
+# in den Besitz von Rittergutsbesitzern. Das fand vor allem in 
+# Ostdeutschland, vor allem in Preußen statt.
