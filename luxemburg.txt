@@ -180,8 +180,13 @@ damit der Mehrwert realisiert werden kann?
 [Notizen zu Kapitel 27]
 ,,Der Kampf gegen die Naturalwirtschaft´´
 =========================================
-Theoretischer Teil
+Theoretischer Teil (S.289-292)
 ------------------
+Kapitalismus entsteht in einem nichtkapitalistischen sozialen Milieu.
+Die folenden Ausführungen beziehen sich also ebenso auf die
+Entwicklung in den kapitalistischn Ländern, als auch auf die
+Erschließung der restlichen Welt.
+
 Kapitalakkumulation arbeitet sich in 3 Phasen voran:
 * bekämpft und beseitigt Naturalwirtschaft
 * drängt Warenwirtschaft in Nischen
@@ -199,10 +204,52 @@ Naturalwirtschaften sind für kap. Wirtschaft nicht nützlich,
   und daher vor Ausbeutung geschützt
 * Arbeitskräfte unterliegen starken Bindungen
 
-Dieser Prozess ist also ein integraler Bestandteil des
-Kapitalismus. Von diesem Argument wird in der späteren Diskussion
-wenig Gebrauch gemacht.  
+Das ist der Grund warum der Kapitalismus diese Form im großen
+Stil bekämpft und allenfalls in Reservaten duldet.
 
-# Bauernlegen - Enteignung von freien Bauern und Eingliederung
-# in den Besitz von Rittergutsbesitzern. Das fand vor allem in 
-# Ostdeutschland, vor allem in Preußen statt.
+// Dieser Prozess ist also ein integraler Bestandteil des
+// Kapitalismus. Von diesem Argument wird in der späteren Diskussion
+// wenig Gebrauch gemacht.
+
+Die haupsächlich verwendeten Methoden in diesem Kampf sind,
+* politische Gewalt, also Revolutionen und Krieg  
+* staatlicher Steuerdruck
+* billige Waren
+
+Die ökonomischen Zwecke:
+* Aneignung und Kontrolle der wichtigsten Quellen von Produktivkräften
+  wie Grund und Boden, Bodenschätze, natürliche Ressourcen
+* Arbeitskräfte frei verfügbar machen
+* Warenwirtschaft und Verkehrswirtschaft einführen
+* Gewerbe und Landwirtschaft trennen
+
+Bauernlegen - Enteignung von freien Bauern und Eingliederung
+in den Besitz von Rittergutsbesitzern. Das fand vor allem in 
+Ostdeutschland, vor allem in Preußen statt.
+
+Kolonialpolitik - der Kapitalismus wird nie nur Handel treiben,
+sondern sich Produktionsmittel immer auch direkt, auch gewaltsam 
+aneignen.
+
+* Notwendigkeit für das Vorgehen wird konstruiert - um Gewinne zu machen
+* Vernichtung der nichtkapital. sozialen Verbände - Freiheit
+
+Die dabei auftrentenden Konflikte löst der Kapitalismus mit Gewalt,
+da Militarismus eine effiziente Möglichkeit bietet.
+
+Englands Kolonialgeschichte in Indien (S.292-297)
+-------------------------------------
+* Indien kennt eine lange Geschichte der Fremdherrschaft, aber keine
+  hat vor den Engländern die traditionelle Produktionsweise zerstört
+
+- Privateigentum statt dörfliches Gemeindeeigentum
+- Steuerlast, die Menschen am Existenzminimum hält
+- (Zwang Nahrung zu kaufen, in dem Lagerung in Dörfern unterbunden wird. Mike Davis)
+- Verfall wirtschaftskultureller Infrastruktur, Zisternen, Brunnen, Kanäle...
+
+* Berichte über angebliche Rückständigkeit werden kritisiert.
+
+Kolonisation Aleriens durch Frankreich (S.297-305)
+--------------------------------------
+
+* Algerier verlassen ihre Heimat, vor allem Richtung Syrien
