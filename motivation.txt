@@ -113,15 +113,25 @@ Globale Bedingungen
 ===================
 Klimaveränderungen
 ------------------
-Die aktuelle Prognose ist, dass die globale Temperatur
+Die aktuelle Prognose ist, dass die globale Durchschnittstemperatur
 bis zum Ende des 21. Jahrhunderts um 4,8°C ansteigt.
-
 
 Naturereignisse
 ---------------
 
+Krankheiten
+-----------
+AIDS
+~~~~
+
+Malaria
+~~~~~~~
+
 Atmos-, Hydro- und Ökosphäre
 ----------------------------
+
+Landwirtschaft
+--------------
 
 Globale Funktionssysteme
 ========================
