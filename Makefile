@@ -22,6 +22,7 @@ clean:
 	rm -f *.log
 	rm -f *.dvi
 	rm -f $(INCLUDES)
+	rm -f *flymake.pl
 
 distclean: clean
 	rm -f versuch.pdf
