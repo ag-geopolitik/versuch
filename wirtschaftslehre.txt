@@ -1,4 +1,7 @@
 
+Historisches ökonomisches Denken
+++++++++++++++++++++++++++++++++
+
 Merkantilismus
 ==============
 - Wirtschaftstheorie und Wirtschaftspraxis wurden
@@ -17,6 +20,9 @@ Physiokraten
   ebenfalls produziert wird, aber der Natur nach nicht
   unerschöpflich also wiederholbar, alle anderen 
   wirtschaftlichen Handlungen führen nur Umwandlungen aus
+- das Prinzip des laissezfaire, laissez passer 
+  (“let it be, let it go”) wird als Empfehlung in die
+  Wirtschaftspolitik eingeführt \cite{landreth_colander_history} 
 
 Adam Smith und die klassische Ökonomie von Ricardo
 ==================================================

@@ -3,7 +3,10 @@ PHONY=all,clean,distclean,view,INCLUDES
 LATEX=latex -halt-on-error
 FILTER=perl tool.pl
 
-INCLUDES=org.tex
+INCLUDES=\
+    kapitalismus.tex \
+    org.tex \
+    wirtschaftslehre.tex
 .SUFFIXES: .txt
 
 .txt.tex:

@@ -24,9 +24,25 @@ sub section {
    }
 }
 
+sub itemize {
+   my $match = qr/^(-|\*) (.*?)\n\s*\n/sm;
+   while($lines =~ $match) {
+       my $list = $2;
+       $list =~ s/\s*\n\s*/\n/g;
+       my @list = grep { !/^(-|\*)$/ } 
+           split /\n(-|\*)\s+/,$list;
+       my $replace = '\\begin{itemize*}' . "\n\n"; # mdwlist
+       $replace .= "\\item " . join("\n\n\\item ",@list) . "\n\n";
+       $replace .= '\\end{itemize*}' . "\n\n";
+       $lines =~ s/$match/$replace/;
+   }
+}
+
+section('+','chapter');
 section('=','section');
 section('-','subsection');
 section('~','subsubsection');
+itemize();
 
 say $lines;
 
