@@ -38,6 +38,7 @@ sub itemize {
    }
 }
 
+section('#','part');
 section('+','chapter');
 section('=','section');
 section('-','subsection');

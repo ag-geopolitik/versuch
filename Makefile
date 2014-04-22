@@ -4,6 +4,7 @@ LATEX=latex -halt-on-error
 FILTER=perl tool.pl
 
 INCLUDES=\
+    identity.tex \
     kapitalismus.tex \
     org.tex \
     wirtschaftslehre.tex
