@@ -22,7 +22,7 @@ versuch.pdf: versuch.tex literatur.bib $(INCLUDES)
 
 all: versuch.pdf
 clean:
-	rm -f *.aux
+	rm -f *.aux *.bbl *.blg
 	rm -f *.log
 	rm -f *.dvi
 	rm -f $(INCLUDES)
