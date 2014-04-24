@@ -4,8 +4,12 @@ LATEX=latex -halt-on-error
 FILTER=perl tool.pl
 
 INCLUDES=\
+    arbeitundleben.tex \
+    fragen.tex \
     identity.tex \
+    industriegesellschaft.tex \
     kapitalismus.tex \
+    methoden.tex \
     org.tex \
     wirtschaftslehre.tex
 .SUFFIXES: .txt

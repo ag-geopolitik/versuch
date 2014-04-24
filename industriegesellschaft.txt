@@ -37,7 +37,14 @@ Warum hat sich diese Form so langsam durchgesetzt?
 * Umsetzung des Prinzips der Aufteilung der Arbeitsschritte
   steigert die Produktivität wenn überhaupt, bei weiten nicht 
   so übermäßig, wie es den Anschein hat.
- 
+
+Postfordismus
+=============
+
+\cite{opitz2007postfordismus}
+* Wissen produziert Wissen
+* Angebot und Nachfrage ändern Reihenfolge
+* "Industrie 4.0" - flexible Produktion
 
 
 

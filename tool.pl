@@ -8,6 +8,10 @@ use Data::Dumper;
 my $lines = join '',<>;
 my $errors = 0;
 
+sub escape {
+   $lines =~ s/\$/\\\${}/g;
+}
+
 sub section {
    my ($sign,$command) = @_;
    my $headliner = quotemeta($sign);
@@ -38,6 +42,7 @@ sub itemize {
    }
 }
 
+escape();
 section('#','part');
 section('+','chapter');
 section('=','section');
