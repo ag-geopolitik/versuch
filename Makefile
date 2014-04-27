@@ -11,6 +11,7 @@ INCLUDES=\
     kapitalismus.tex \
     methoden.tex \
     org.tex \
+    utopien.tex \
     wirtschaftslehre.tex
 .SUFFIXES: .txt
 
