@@ -1,7 +1,14 @@
 
-PHONY=all,clean,distclean,view,INCLUDES
+PHONY=all,clean,distclean,view,tool.pl
 LATEX=latex -halt-on-error
 FILTER=perl tool.pl
+
+ifneq (,$(wildcard /usr/bin/atril))
+	PDFVIEWER=atril
+endif
+ifneq (,$(wildcard /usr/bin/evince))
+	PDFVIEWER=evince
+endif
 
 INCLUDES=\
     arbeitundleben.tex \
@@ -18,7 +25,7 @@ INCLUDES=\
 .txt.tex:
 	$(FILTER) $< > $@
 
-versuch.pdf: versuch.tex literatur.bib $(INCLUDES)
+versuch.pdf: versuch.tex literatur.bib $(INCLUDES) tool.pl 
 	$(LATEX) versuch.tex
 	bibtex versuch
 	$(LATEX) versuch.tex
@@ -37,5 +44,5 @@ distclean: clean
 	rm -f versuch.pdf
 
 view: all
-	atril versuch.pdf &
+	$(PDFVIEWER) versuch.pdf &
 

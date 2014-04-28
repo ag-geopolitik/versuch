@@ -42,6 +42,42 @@ sub itemize {
    }
 }
 
+sub quotes {
+   my $match = qr/^(\| )(.*?)((\|\: )(.*?))?\n\s*\n/sm;
+   while($lines =~ $match) {
+       my ($quote,$info) = ($2,$5);
+       $quote =~ s/\| //g;
+       #my $replace = "\n" . '\\raggedright{\\begin{minipage}[t]{6cm}%' . "\n" . 
+       #    '\\raggedleft{\\footnotesize{\\slshape{' . $quote . "}}}\n";
+       #if($info) {
+       #    $replace .=  . "\n";
+       #}
+       #$replace .= '\\end{minipage}}%' . "\n\n";
+       my $replace = _quote($quote,$info);
+       $lines =~ s/$match/$replace/;
+   }
+}
+
+sub _quote {
+  my ($text,$author) = @_;
+  my $code = <<__LATEX__;
+  \\begin{minipage}{0.9\\textwidth}
+  \\vspace{4ex}
+  \\begin{flushright}
+  \\begin{minipage}[t]{0.55\\textwidth}
+  \\raggedleft{\\footnotesize{\\slshape{$text\\noindent}}}%
+__LATEX__
+  if($author) {
+    $code .= '\\vspace{1.8ex}\\footnotesize\\raggedright{' . $author . '}%' . "\n";
+  }
+  $code .= <<__LATEX__;
+  \\end{minipage}
+  \\end{flushright}
+  \\end{minipage}
+__LATEX__
+    return $code;
+}
+
 escape();
 section('#','part');
 section('+','chapter');
@@ -49,6 +85,7 @@ section('=','section');
 section('-','subsection');
 section('~','subsubsection');
 itemize();
+quotes();
 
 say $lines;
 
