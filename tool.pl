@@ -9,7 +9,7 @@ my $lines = join '',<>;
 my $errors = 0;
 
 sub escape {
-   $lines =~ s/\$/\\\${}/g;
+   $lines =~ s/(\$|\&)/\\$1\{\}/g;
 }
 
 sub section {

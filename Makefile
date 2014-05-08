@@ -1,5 +1,5 @@
 
-PHONY=all,clean,distclean,view,tool.pl
+PHONY=all,clean,distclean,view
 LATEX=latex -halt-on-error
 FILTER=perl tool.pl
 
@@ -13,17 +13,22 @@ endif
 INCLUDES=\
     arbeitundleben.tex \
     fragen.tex \
+    heute.tex \
     identity.tex \
     industriegesellschaft.tex \
     kapitalismus.tex \
     methoden.tex \
     org.tex \
+    staaten.tex \
     utopien.tex \
     wirtschaftslehre.tex
 .SUFFIXES: .txt
 
 .txt.tex:
 	$(FILTER) $< > $@
+
+tool.pl:
+	true
 
 versuch.pdf: versuch.tex literatur.bib $(INCLUDES) tool.pl 
 	$(LATEX) versuch.tex
@@ -33,6 +38,7 @@ versuch.pdf: versuch.tex literatur.bib $(INCLUDES) tool.pl
 	dvipdf versuch.dvi
 
 all: versuch.pdf
+
 clean:
 	rm -f *.aux *.bbl *.blg
 	rm -f *.log
