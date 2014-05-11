@@ -63,4 +63,5 @@ NATO
 KSZE - Konferenz für Sicherheit und Zusammenarbeit in Europa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
+OSZE
+~~~~
