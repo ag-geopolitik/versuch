@@ -1,8 +1,19 @@
 
-\documentclass[a4paper]{book}
+\documentclass[a4paper]{hitec}
 \usepackage[utf8]{inputenc}
-\usepackage[ngerman]{babel}
+\usepackage[ngerman,german]{babel}
+\usepackage{hyperref}
 \usepackage{mdwlist}
+\usepackage{quotmark}
+% \tqt{..} oder \begin{qt} ... \end{qt}
+% \usepackage{quotchap}
+\usepackage{glossaries}
+
+\providecommand\chapter[1]{\section{#1}}
+%\newcommand\part[1]{\section{#1}}
+\input{hyphenation.tex}
+
+\makeglossaries
 
 \begin{document}
 \author{Sebastian Bernhard}
@@ -16,9 +27,13 @@
 
 Der Theorie sozialer Praktik, wie sie Andreas Reckwitz in
 \cite{reckwitz2003praktiken} darstellt, kann alle ökonomischen 
-Handlungen einbeziehen. Damit wird der Versuch gemacht, dem 
+Handlungen einbeziehen. Damit wird der Versuch gemacht,
 Verständnis von Wirtschaft aus einer weiteren Perspektive
 zu betrachten.
+
+\input{staaten.tex}
+
+\input{heute.tex}
 
 \input{arbeitundleben.tex}
 

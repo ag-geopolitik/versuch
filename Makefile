@@ -1,23 +1,36 @@
 
-PHONY=all,clean,distclean,view,INCLUDES
+PHONY=all,clean,distclean,view
 LATEX=latex -halt-on-error
 FILTER=perl tool.pl
+
+ifneq (,$(wildcard /usr/bin/atril))
+	PDFVIEWER=atril
+endif
+ifneq (,$(wildcard /usr/bin/evince))
+	PDFVIEWER=evince
+endif
 
 INCLUDES=\
     arbeitundleben.tex \
     fragen.tex \
+    heute.tex \
     identity.tex \
     industriegesellschaft.tex \
     kapitalismus.tex \
     methoden.tex \
     org.tex \
+    staaten.tex \
+    utopien.tex \
     wirtschaftslehre.tex
 .SUFFIXES: .txt
 
 .txt.tex:
 	$(FILTER) $< > $@
 
-versuch.pdf: versuch.tex literatur.bib $(INCLUDES)
+tool.pl:
+	true
+
+versuch.pdf: versuch.tex literatur.bib $(INCLUDES) tool.pl 
 	$(LATEX) versuch.tex
 	bibtex versuch
 	$(LATEX) versuch.tex
@@ -25,6 +38,7 @@ versuch.pdf: versuch.tex literatur.bib $(INCLUDES)
 	dvipdf versuch.dvi
 
 all: versuch.pdf
+
 clean:
 	rm -f *.aux *.bbl *.blg
 	rm -f *.log
@@ -36,5 +50,5 @@ distclean: clean
 	rm -f versuch.pdf
 
 view: all
-	atril versuch.pdf &
+	$(PDFVIEWER) versuch.pdf &
 

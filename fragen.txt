@@ -2,8 +2,8 @@
 Offene Fragen
 =============
 
-Kann es für jedes Angebot eine Nachfrage und für
+Kann für jedes Angebot eine Nachfrage und für
 jede Nachfrage ein Angebot erzeugt werden?
 
 Wird die Frage mit ja beantwortet, so fällt der Bereich
-aus der Wirtschaft aus der Wirtschaft heraus?
+aus der Wirtschaft heraus?
