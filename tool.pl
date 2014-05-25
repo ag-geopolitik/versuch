@@ -68,7 +68,7 @@ sub _quote {
   \\raggedleft{\\footnotesize{\\slshape{$text\\noindent}}}%
 __LATEX__
   if($author) {
-    $code .= '\\vspace{1.8ex}\\footnotesize\\raggedright{' . $author . '}%' . "\n";
+    $code .= "\n\n". '\\vspace{1.8ex}\\footnotesize\\raggedright{' . $author . '}%' . "\n";
   }
   $code .= <<__LATEX__;
   \\end{minipage}
