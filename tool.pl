@@ -12,6 +12,11 @@ sub escape {
    $lines =~ s/(\$|\&)/\\$1\{\}/g;
 }
 
+sub zitate {
+   $lines =~ s/,,/\\tqt{/g;
+   $lines =~ s/''/}/g;
+}
+
 sub section {
    my ($sign,$command) = @_;
    my $headliner = quotemeta($sign);
@@ -79,6 +84,7 @@ __LATEX__
 }
 
 escape();
+zitate();
 section('#','part');
 section('+','chapter');
 section('=','section');
