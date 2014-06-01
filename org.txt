@@ -40,6 +40,8 @@ Globale Staatenvereinigungen
 ============================
 UNO - Vereinigte Nationen
 -------------------------
+\input{uno.tex}
+
 Weltsicherheitsrat
 ~~~~~~~~~~~~~~~~~~
 
