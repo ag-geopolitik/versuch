@@ -1,5 +1,5 @@
 
-PHONY=all,clean,distclean,view
+PHONY=clean,distclean,view
 LATEX=latex -halt-on-error
 FILTER=perl tool.pl
 
@@ -9,6 +9,12 @@ endif
 ifneq (,$(wildcard /usr/bin/evince))
 	PDFVIEWER=evince
 endif
+
+STATIC=\
+    hyphenation.tex \
+    literatur.bib \
+    tool.pl \
+    versuch.tex
 
 INCLUDES=\
     arbeitundleben.tex \
@@ -20,6 +26,7 @@ INCLUDES=\
     methoden.tex \
     org.tex \
     staaten.tex \
+    uno.tex \
     utopien.tex \
     wirtschaftslehre.tex
 .SUFFIXES: .txt
@@ -27,17 +34,14 @@ INCLUDES=\
 .txt.tex:
 	$(FILTER) $< > $@
 
-tool.pl:
-	true
-
-versuch.pdf: versuch.tex literatur.bib $(INCLUDES) tool.pl 
+versuch.pdf: $(STATIC) $(INCLUDES) 
 	$(LATEX) versuch.tex
 	bibtex versuch
 	$(LATEX) versuch.tex
 	$(LATEX) versuch.tex
 	dvipdf versuch.dvi
 
-all: versuch.pdf
+ALL: versuch.pdf
 
 clean:
 	rm -f *.aux *.bbl *.blg
@@ -49,6 +53,6 @@ clean:
 distclean: clean
 	rm -f versuch.pdf
 
-view: all
+view: ALL
 	$(PDFVIEWER) versuch.pdf &
 
