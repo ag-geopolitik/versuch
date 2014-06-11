@@ -1,7 +1,10 @@
 
 \documentclass[a4paper]{hitec}
 \usepackage[utf8]{inputenc}
-\usepackage[ngerman,german]{babel}
+\usepackage{lmodern}
+\usepackage{ae}
+\usepackage[german]{babel}
+
 \usepackage{hyperref}
 \usepackage{mdwlist}
 \usepackage{quotmark}
@@ -16,6 +19,7 @@
 \makeglossaries
 
 \begin{document}
+
 \author{Sebastian Bernhard}
 \title{Handlungsfäden in der Wirtschaftsgeschichte aus heutiger Perspektive}
 \maketitle
@@ -23,13 +27,7 @@
 
 \part{Verschiedene Blickwinkel}
 
-\chapter{Wirtschaft als soziale Praktik}
-
-Der Theorie sozialer Praktik, wie sie Andreas Reckwitz in
-\cite{reckwitz2003praktiken} darstellt, kann alle ökonomischen 
-Handlungen einbeziehen. Damit wird der Versuch gemacht,
-Verständnis von Wirtschaft aus einer weiteren Perspektive
-zu betrachten.
+\input{praktik.tex}
 
 \input{staaten.tex}
 
@@ -52,4 +50,6 @@ zu betrachten.
 \bibliographystyle{alpha}
 \bibliography{literatur}
  
+\printglossaries{}
+
 \end{document}

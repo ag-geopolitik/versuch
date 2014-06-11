@@ -57,5 +57,5 @@ klaren Grenzen bildet.
 [1] Die hier vorgestellte Zukunftsvision geht davon aus, dass die Konflikte
 auf friedlichem Weg ausgetragen werden.
 
-\input{utopien.txt}
+\input{utopien.tex}
 
