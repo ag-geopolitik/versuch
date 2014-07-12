@@ -1,7 +1,6 @@
 
 Identität
 =========
-
 Den Wandel den Wahrnehmung von Raum nimmt, müssen wir für
 unsere Arbeit analysieren, da er mit wachsender Dynamik Einfluss
 gewinnt. Was für Historiker sich als neues Problem aufbaut,
@@ -12,20 +11,22 @@ ist in unserem Forschunsgebiet mit dem Erlernen der Orientierung
 verbunden. Unseren Lebensraum nur in geographischen Dimensionen 
 belassen zu wollen, würde bereits einige Mühe machen und ob
 wir unseren Mitmenschen in dieser Frage eine Wahl ermöglichen
-ist ungewiss.
-
-\cite{harvey89postmodernity}
+ist ungewiss \cite{harvey89postmodernity}.
 
 Identität und Bildung
 ---------------------
 Das Funktionieren im Arbeitsmarkt der Menschen wird als erste
 Aufgabe des Bildungswesens verstanden \cite{soziopod2012ident8}.
 Das provoziert nicht nur Kritik aufgrund der Systemkonformität, 
-sondern es setzt auch vorraus dass dieser Arbeitsmarkt verstanden 
+sondern es setzt auch voraus, daß dieser Arbeitsmarkt verstanden 
 wird. Das ist aber in Frage zu stellen. Die herrschende Form 
 kapitalistischer Ausbeutung versucht in der Illusion verhaftet 
 sich zu schützen, einen Arbeitsmarkt zu erhalten, der dieses 
-System schützen soll.
+System schützen soll. Eine hohe Jugendarbeitslosigkeit kann
+in diesem Sinne, als ein Symptom einer echten Krise des
+kapitalischen Systems verstanden werden. Manche andere Krise
+lieferte dem System die Möglchkeit zur Korrektur und Bereinigung
+und wirkt damit eher systemhaltend und progressiv.
 
 Dafür sollten hier Beispiele stehen, die ich im Moment nicht
 bringen kann, da mir der Einblick fehlt, so dass ich mich nur

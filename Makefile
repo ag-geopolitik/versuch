@@ -18,13 +18,18 @@ STATIC=\
 
 INCLUDES=\
     arbeitundleben.tex \
+    entwicklung.tex \
     fragen.tex \
     heute.tex \
     identity.tex \
+    innovation.tex \
     industriegesellschaft.tex \
+    institutionen.tex \
     kapitalismus.tex \
+    konzept.tex \
     methoden.tex \
     org.tex \
+    praktik.tex \
     staaten.tex \
     uno.tex \
     utopien.tex \

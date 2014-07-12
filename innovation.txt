@@ -25,30 +25,30 @@ preisgegeben werden.
 
 Die kulturellen Innovationen sind heute oft mit den technischen
 verbunden. Die Liste neuer Kulturtechniken und -produkte des
-Internetzeitalters ist trotz der relativ kurzen Spanne schon
-beträchtlich lang. Der "alten" Kultur erwächst daraus Konkurrenz,
+Internetzeitalters ist trotz der relativ kurzen Spanne ihrer Existenz
+schon beträchtlich lang. Der "alten" Kultur erwächst daraus Konkurrenz,
 aber auch Freiraum und neue Wertschätzung.
 
 Gäbe es ein Optimum für gesellschaftliches Leben, kann selbst dieses
-sich nur nur durch eine gute Anpassungsfähigkeit an Veränderungen
-auszeichnen. Die Systemtheorie kennt die Metapher des dynamischen
-Gleichgewichts. Die Ökonomie müsste sich dem stellen, um eine
-Bewertung nach wirtschaftlichen Kriterien ansatzweise sinnvoll 
-werden zu lassen.
+sich nur nur durch Anpassungsfähigkeit an Veränderungen auszeichnen.
+Die Systemtheorie kennt die Metapher des dynamischen
+Gleichgewichts. Die ökonomischen Modelle sind sicher nicht nur an
+stabilen Zuständen interessiert, aber Dynamik muss einbezogen sein,
+um sie ansatzweise sinnvoll werden zu lassen.
 
 Kultur ist auch nach den heutigen Maßstäben schon zu einem 
 Gebiet wirtschaftlichen Handelns geworden. Daß kulturelle
 Innovation anhand des ökonomischen Erfolgs bestimmbar ist, darf
 aber weiterhin bezweifelt werden.  
 
-Im Gegensatz dazu ist technische Innovation, solange sie saube 
+Im Gegensatz dazu ist technische Innovation, solange sie sauber 
 von kultureller unterschieden werden kann, einfacher mit den
 Werkzeugen der Ökonomie einzuschätzen. Innovativ ist, was einen
 positiven Einfluss auf die Wirtschaftsentwicklung hat. Dies kann
 aber nicht auf Bestellung, also durch Investition in Forschung,
 erreicht werden. Evaluation von Alternativen und Mitbestimmung
 sollten viel stärker genutzt werden, technische Entwicklung zu 
-steuern, den diese kann weder vollkommen von unten wachsen, noch
+steuern, denn diese kann weder vollkommen von unten wachsen, noch
 von oben diktiert werden. 
 
 Die regionale Verteilung technischer Innovation wird zum Beispiel 
@@ -58,10 +58,12 @@ die in stätischen Gebieten konzentriert sind, zu messen. Innovation
 in Landwirtschaft, Touristik und Dienstleistungen lässt sich so
 nicht bestimmen, sondern dafür müssen andere Parameter gefunden 
 werden. Die in Patenten messbare Innovation ist darüber hinaus
-in wirtschaftlich schwachen Gebieten deutlich geringer.
-
-\cite{{kramar2006innovation}
+in wirtschaftlich schwachen Gebieten deutlich geringer
+\cite{kramar2006innovation}.
 
 Das Silicon Valley zeichnet sich durch eine hohe Konzentration
-ökonomischer Innovation aus. Diese bedint sicht und löst
-gleichzeitig die anderen Innvationen mit aus.
+ökonomischer Innovation aus. Diese bedient sich und löst
+gleichzeitig die anderen Innvationen mit aus. Dabei kann zwischen
+innovativen Phasen mehrere Jahrzehnte liegen. Die Ära der Science
+Fiction Literatur ist eine kulturelle Wurzel und Inspiration der  
+High Tech Industrie in Amerika\cite{krysmanski2001popscience}. 
