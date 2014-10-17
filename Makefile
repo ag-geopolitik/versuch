@@ -13,8 +13,7 @@ endif
 STATIC=\
     hyphenation.tex \
     literatur.bib \
-    tool.pl \
-    versuch.tex
+    tool.pl
 
 INCLUDES=\
     arbeitundleben.tex \
@@ -33,7 +32,16 @@ INCLUDES=\
     staaten.tex \
     uno.tex \
     utopien.tex \
+    versuch.tex \
     wirtschaftslehre.tex
+
+ANARCHY=\
+    anarchie.tex \
+    armut.tex \
+    formen.tex \
+    lebenswert.tex \
+    poem.tex
+
 .SUFFIXES: .txt
 
 .txt.tex:
@@ -46,7 +54,14 @@ versuch.pdf: $(STATIC) $(INCLUDES)
 	$(LATEX) versuch.tex
 	dvipdf versuch.dvi
 
-ALL: versuch.pdf
+markt-und-anarchie.pdf: $(STATIC) $(ANARCHY)
+	$(LATEX) anarchie.tex
+	#bibtex anarchie
+	$(LATEX) anarchie.tex
+	$(LATEX) anarchie.tex
+	dvipdf -sOutputFile=markt-und-anarchie.pdf anarchie.dvi
+
+ALL: versuch.pdf markt-und-anarchie.pdf
 
 clean:
 	rm -f *.aux *.bbl *.blg
@@ -57,7 +72,11 @@ clean:
 
 distclean: clean
 	rm -f versuch.pdf
+	rm -f markt-und-anarchie.pdf
 
-view: ALL
+anarchy: markt-und-anarchie.pdf
+	$(PDFVIEWER) markt-und-anarchie.pdf &
+
+view: versuch.pdf
 	$(PDFVIEWER) versuch.pdf &
 

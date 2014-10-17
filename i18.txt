@@ -30,6 +30,9 @@ Elektrogeräte:
 - Eisen wird am Ende dieses Jh. wahrscheinlich ausschließlich
   aus anthropozänen Lagerstätten kommen
 
+- nicht alle Rohstoffe lassen sich leicht wieder gewinnen, z.B.
+  Halbleiter/seltene Erden sind in Solarzellen so gründlich verteilt, dass bisher
+  kein wirtschafliches Verfahren zu ihrer Wiederverwendung existiert 
 
 Arbeit und Wissen sind nicht 100% marktkonform
 ==============================================

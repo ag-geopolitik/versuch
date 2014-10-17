@@ -83,7 +83,21 @@ __LATEX__
     return $code;
 }
 
+sub pagebreak {
+   my $match = qr/\s*\\\\\\+\s/;
+   my $replace = "\n\\clearpage{}\n";
+   $lines =~ s/$match/$replace/mg;
+}
+
+sub paragraph {
+   my $match = qr/\s*\/\/\/+\s/;
+   my $replace = "\n\\paragraph{}\n";
+   $lines =~ s/$match/$replace/mg;
+}
+
 escape();
+pagebreak();
+paragraph();
 zitate();
 section('#','part');
 section('+','chapter');
