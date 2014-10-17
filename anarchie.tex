@@ -1,0 +1,41 @@
+
+\documentclass[a4paper]{hitec}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{ae}
+\usepackage[german]{babel}
+
+\usepackage{hyperref}
+\usepackage{mdwlist}
+\usepackage{quotmark}
+% \tqt{..} oder \begin{qt} ... \end{qt}
+% \usepackage{quotchap}
+\usepackage{glossaries}
+
+\providecommand\chapter[1]{\section{#1}}
+%\newcommand\part[1]{\section{#1}}
+\input{hyphenation.tex}
+
+\makeglossaries
+
+\begin{document}
+
+\author{Sebastian Bernhard}
+\title{Markt und Anarchie}
+\maketitle
+\tableofcontents
+
+\input{lebenswert.tex}
+
+\input{formen.tex}
+
+\input{poem.tex}
+
+\input{armut.tex}
+
+\bibliographystyle{alpha}
+\bibliography{literatur}
+ 
+\printglossaries{}
+
+\end{document}
