@@ -42,4 +42,15 @@ John Locke
 Adam Smith
 ----------
 
+Die ursprüngliche Akkumulation des Kapitals
+===========================================
+* Entstehung der Nationalstaaten
+* Doppelt freie Lohnarbeiter
+* Akumulationsregime
+    - Fordismus
 
+              Produktionsparadigma    Regulationsweise
+Fordismus     Fließband               Keynesianismus
+
+Postfordismus Lean Production, JIT    Monetarismus (Friedman),
+              Flexible Arbeit         wenig regulierter Arbeitsmarkt
