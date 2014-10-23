@@ -40,7 +40,8 @@ ANARCHY=\
     armut.tex \
     formen.tex \
     lebenswert.tex \
-    poem.tex
+    poem.tex \
+    revolte.tex
 
 .SUFFIXES: .txt
 

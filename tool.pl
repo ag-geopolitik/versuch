@@ -95,9 +95,16 @@ sub paragraph {
    $lines =~ s/$match/$replace/mg;
 }
 
+sub italic {
+   my $match = qr/_\/(.*?)\/_/;
+   my $replace = '\\it{$1}';
+   $lines =~ s/$match/\\it{$1}/mg;
+}
+
 escape();
 pagebreak();
 paragraph();
+italic();
 zitate();
 section('#','part');
 section('+','chapter');
@@ -110,3 +117,7 @@ quotes();
 say $lines;
 
 exit $errors;
+
+__END__
+
+   _/italic text/_

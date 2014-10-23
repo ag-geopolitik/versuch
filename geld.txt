@@ -24,3 +24,4 @@ diese Art von Prozessen.
 // gibt, bei dem sich nur die Formen, aber nicht die Funktionen
 // selbst sich geändert haben. Die Formänderungen sind aber so komplex
 // und vielfältig, dass dies nur ein schwacher Trost ist.
+
