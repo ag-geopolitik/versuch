@@ -11,8 +11,10 @@ ifneq (,$(wildcard /usr/bin/evince))
 endif
 
 STATIC=\
+    anarchie.tex \
     hyphenation.tex \
     literatur.bib \
+    versuch.tex \
     tool.pl
 
 INCLUDES=\
@@ -32,11 +34,9 @@ INCLUDES=\
     staaten.tex \
     uno.tex \
     utopien.tex \
-    versuch.tex \
     wirtschaftslehre.tex
 
 ANARCHY=\
-    anarchie.tex \
     armut.tex \
     formen.tex \
     lebenswert.tex \
@@ -69,6 +69,7 @@ clean:
 	rm -f *.log
 	rm -f *.dvi
 	rm -f $(INCLUDES)
+	rm -f $(ANARCHY)
 	rm -f *flymake.pl
 
 distclean: clean

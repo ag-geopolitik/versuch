@@ -79,6 +79,7 @@ __LATEX__
   \\end{minipage}
   \\end{flushright}
   \\end{minipage}
+  \\hspace{0.1\\textwidth}
 __LATEX__
     return $code;
 }
