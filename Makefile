@@ -40,6 +40,7 @@ ANARCHY=\
     armut.tex \
     formen.tex \
     lebenswert.tex \
+    markt.tex \
     poem.tex \
     revolte.tex
 
@@ -48,16 +49,16 @@ ANARCHY=\
 .txt.tex:
 	$(FILTER) $< > $@
 
-versuch.pdf: $(STATIC) $(INCLUDES) 
+versuch.pdf: versuch.tex $(STATIC) $(INCLUDES) 
 	$(LATEX) versuch.tex
 	bibtex versuch
 	$(LATEX) versuch.tex
 	$(LATEX) versuch.tex
 	dvipdf versuch.dvi
 
-markt-und-anarchie.pdf: $(STATIC) $(ANARCHY)
+markt-und-anarchie.pdf: anarchie.tex $(STATIC) $(ANARCHY)
 	$(LATEX) anarchie.tex
-	#bibtex anarchie
+	bibtex anarchie
 	$(LATEX) anarchie.tex
 	$(LATEX) anarchie.tex
 	dvipdf -sOutputFile=markt-und-anarchie.pdf anarchie.dvi

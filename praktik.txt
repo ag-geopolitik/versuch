@@ -1,6 +1,8 @@
 
 Wirtschaft als soziale Praktik
 ++++++++++++++++++++++++++++++
+„Jedes praktische Können und jede wissenschaftliche Untersuchung, ebenso alles Handeln und Wählen, strebt nach einem Gut, wie allgemein angenommen wird.“
+
 Der Theorie sozialer Praktiken, wie sie Andreas Reckwitz in
 \cite{reckwitz2003praktiken} darstellt, kann alle ökonomischen 
 Handlungen einbeziehen. Damit wird der Versuch gemacht,
