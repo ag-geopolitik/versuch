@@ -44,7 +44,7 @@ stellt dieser Begriff allenfalls in der realen Wirklichkeit dar?´´
    - der sterilen Klasse - Wirtschaft außerhalb der Landwirtschaft
    - Grundbesitzer u.a. - die Erträge ohne Aktivität erhalten
 
-# Rosa Luxemburg verwendet den modernen Beriff _Landwirt_.
+# Rosa Luxemburg verwendet den modernen Begriff _Landwirt_.
 
 >> P produziert
 >>> 2/5 verwendet P selbst als Kapital für die Produktion
@@ -69,9 +69,10 @@ stellt dieser Begriff allenfalls in der realen Wirklichkeit dar?´´
     Kapital zum Ausgangspunkt zurückfließt und die Produktion von
     neuem beginnen kann.
 
-Für Quesnay wird festestellt, dass nur die produktive Klasse einen Wirtschafts-
-kreislauf produziert. Das Handeln der anderen Klassen ist linear, also ohne
-festes Kapital, welches ersetzt werden müsste.
+Für Quesnay wird festestellt, dass nur die produktive Klasse 
+einen Wirtschaftskreislauf produziert. Das Handeln der anderen
+Klassen ist linear, also ohne festes Kapital, welches ersetzt
+werden müsste.
 
 Leider wird die Besonderheit der physiokratischen Lehre nicht
 stärker betont. Sie steht für mich nicht im Widerspruch zu den
