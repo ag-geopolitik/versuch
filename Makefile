@@ -1,6 +1,7 @@
 
 PHONY=clean,distclean,view
 LATEX=latex -halt-on-error
+LUALATEX=lualatex
 FILTER=perl tool.pl
 
 ifneq (,$(wildcard /usr/bin/atril))
@@ -10,11 +11,14 @@ ifneq (,$(wildcard /usr/bin/evince))
 	PDFVIEWER=evince
 endif
 
-STATIC=\
+DOCUMENTS=\
     anarchie.tex \
+    soziologie.tex \
+    versuch.tex
+
+STATIC=\
     hyphenation.tex \
     literatur.bib \
-    versuch.tex \
     tool.pl
 
 INCLUDES=\
@@ -44,6 +48,10 @@ ANARCHY=\
     poem.tex \
     revolte.tex
 
+SOZIOLOGIE=\
+    arbeit.tex \
+    welt.tex
+
 .SUFFIXES: .txt
 
 .txt.tex:
@@ -62,6 +70,9 @@ markt-und-anarchie.pdf: anarchie.tex $(STATIC) $(ANARCHY)
 	$(LATEX) anarchie.tex
 	$(LATEX) anarchie.tex
 	dvipdf -sOutputFile=markt-und-anarchie.pdf anarchie.dvi
+
+soziologie.pdf: soziologie.tex $(STATIC) $(SOZIOLOGIE)
+	$(LUALATEX) soziologie.tex
 
 ALL: versuch.pdf markt-und-anarchie.pdf
 
@@ -83,3 +94,5 @@ anarchy: markt-und-anarchie.pdf
 view: versuch.pdf
 	$(PDFVIEWER) versuch.pdf &
 
+soz: soziologie.pdf
+	$(PDFVIEWER) $< &
