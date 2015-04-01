@@ -1,6 +1,12 @@
 
 Die Soziologie als rationale Weltanschauung
 ===========================================
+
+| Das wissenschaftliche Denken ist nicht von ungefähr. Es will
+| in harter Arbeit erlernt, mit zäher Ausdauer, in heißem Ringen,
+| geübt, seine Regeln und Methoden wollen erkannt werden.
+|: Ferdinand Tönnies (1897)
+
 Wenn Begriffe der natürlichen Sprache in einer
 soziologischen Arbeit in einen Kontext von Definitionen 
 eingebettet werden, geht es darum Aussagen über die 
@@ -16,7 +22,7 @@ den Auswahl- und Formungsprinzipien für diese Worte
 verbunden. Meist sollen verschiedene Ziele erreicht
 werden. Oft geht es schlicht darum, die Verhältnisse und
 Zusammenhänge für den Diskurs zu erschließen. Allein
-dafür muß die Transformation des Sozialenin eine sprachliche
+dafür muß die Transformation des Sozialen in eine sprachliche
 Form eine Vielzahl von Definitionen vornehmen, welche nicht
 in der Alltagssprache, sondern in der bisherigen soziologieschen
 Forschung ihren Ursprung haben. Das Studium dieser vorangegangenen
@@ -30,3 +36,12 @@ ergänzt, in dem nicht der einzelne Begriff mit abgrenzbarer
 Zeichnung als umfassende Bedeutunseinheit, als Vermittler von
 Informationen auftritt, sondern erst das System in größeren
 Bereichen das erfasste Wissen zugänglich macht.
+
+Wenn für einen Begriff die Wahl zwischen einem leicht
+verständlichen allgemeinen oder einem treffenderen, aber
+weniger gebräuchlichen besteht, so ist zumeist dem letzteren
+der Vorzug zu geben. In einem Glossar können einzelne Begriffe
+zusätzlich erläutert werden. Das ist auch eine sinnvolle
+Unterstützung für eine einheitliche Verwendung innerhalb einer
+Arbeit.
+
