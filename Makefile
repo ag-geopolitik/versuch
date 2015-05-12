@@ -23,6 +23,7 @@ STATIC=\
 
 INCLUDES=\
     arbeitundleben.tex \
+    eigentum.tex \
     entwicklung.tex \
     fragen.tex \
     heute.tex \
