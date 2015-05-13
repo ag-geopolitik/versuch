@@ -1,13 +1,27 @@
 
 Geld
 ====
-Die drei Grundfunktionen
-------------------------
+
+Geld ist ein Komplex sozialer Institutionen. Die heutige
+Wissenschaft bietet ganz verschiedene Blickwinkel, auf dieses
+Subjekt, dem man ohne zu übertreiben schon ein gewisses
+Eigenleben bescheinigen muss.
+
+Die drei Grundfunktionen des Gelds in der Wirtschaft
+----------------------------------------------------
 
 Geld als 
    * Maßeinheit - Preisform
    * Austausch - Wertform
    * Investition - Kreditform
+
+Geld als soziales Bindemittel
+-----------------------------
+
+* ein paar tausend Jahre Schulden
+
+Politische Identifikation
+-------------------------
 
 // Die Trennung von Wirtschaft und Gesellschaft ist eine
 // konstitutive Eigenschaft für die modernen Gesellschaften,
@@ -25,3 +39,4 @@ diese Art von Prozessen.
 // selbst sich geändert haben. Die Formänderungen sind aber so komplex
 // und vielfältig, dass dies nur ein schwacher Trost ist.
 
+\cite{dittmer2014money}
