@@ -44,6 +44,7 @@ INCLUDES=\
 ANARCHY=\
     armut.tex \
     formen.tex \
+    kapital.tex \
     lebenswert.tex \
     markt.tex \
     poem.tex \

@@ -79,7 +79,10 @@ __LATEX__
   \\end{minipage}
   \\end{flushright}
   \\end{minipage}
-  \\hspace{0.1\\textwidth}
+  \\hspace{0.2\\textwidth}
+  \\vspace{1ex}
+
+
 __LATEX__
     return $code;
 }
@@ -97,9 +100,8 @@ sub paragraph {
 }
 
 sub italic {
-   my $match = qr/_\/(.*?)\/_/;
-   my $replace = '\\it{$1}';
-   $lines =~ s/$match/\\it{$1}/mg;
+   my $match = qr/(_\/(.*?)\/_)/;
+   $lines =~ s/$match/{\\it{$2}}/mg; 
 }
 
 escape();
