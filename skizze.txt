@@ -1,0 +1,135 @@
+
+Eine Buch über programmieren in Scheme
+======================================
+
+Warum ich dieses Buch schreibe?
+-------------------------------
+Programmiersprachen sind ein möglicher Weg der Kommunikation
+zwischen Mensch und Computer. Es ist der Weg, welcher die geringsten
+technischen Vorraussetzungen benötigt.* In der Geschichte der
+prorammierbaren Rechenanlagen haben sich Programmiersprachen schon
+sehr früh entwickelt um eine abstraktere, problemorientierte Form
+der Steuerung verwenden zu können.
+
+
+*  Einfache Programmiersprachen wie BASIC oder Forth sind in 
+wenigen Kilobyte realisierbar, bieten aber gegenüber der
+Maschinensprache ein höheres Abstraktionsniveau.
+
+
+Schlüsselworte für Funktionen
+-----------------------------
+Die beiden ersten Ausdrücke die vorgestellt werden, bilden das
+universelle Grundgerüst der Sprache.
+
+*lambda*::
+  Dies ist ein wichtiges Schlüsselwort, welches seinen Namen vom
+  mathematischen Lambda-Kalkül übernommen hat. Dieses Kalkül wurde in den 
+  dreißiger Jahren des zwanzigsten Jahhunderts von Alonzo Church und Stephen Kleene
+  formuliert. Funktionen werden darin aufgebaut, miteinander kombiniert und
+  Variablen darin eingebunden. 
+
+  ((lambda (a b)(+ a b)) 6 9)
+
+  Hier wird eine Funktion für zwei Paramter a und b angelegt, wlche miteinander
+  addiert werden sollen und die dann mit den Argumenten 6 und 9 ausgewertet wird.
+
+*define*::
+  Dieses Schlüsselwort verknüpft einen Ausdruck mit einem Bezeichner.
+
+  (define empty-list '())
+
+Diese beiden Worte können kombiniert werden um benannte Funktionen zu erzeugen.
+
+  (define build-adder
+    (lambda (a) (lambda (b)(+ a b))))
+
+In dem Beispiel wird eine Funktion definiert, welche selbst eine neue 
+Funktion bereit stellt.
+
+Schlüsselworte zum Umgang mit Listen und Paaren
+-----------------------------------------------
+Listen und Paare sind einfache aber sehr flexible Datenstrukturen.
+
+*append*::
+
+*car*::
+
+*cdr*::
+
+*cons*::
+
+*reverse*::
+
+*list*::
+
+Den Programmverlauf verzweigen
+------------------------------
+*if*::
+
+*cond*::
+
+Ausdrücke vergleichen
+---------------------
+*eq?*::
+
+*eqv?*::
+ 
+
+Community
+---------
+Eine lebendige Prorammiersprache hat mindestens eine Seite die von
+der Community für diese gestaltet wird. Für Perl gibt es das Forum
+http://perlmonks.org und das CPAN für Quellcode, für Tcl ist das 
+http://wiki.tcl.tk/[Tclers Wiki] der Ort im Netz, an dem einem Lernenden
+der Zugang zu der Sprache vermittelt wird. 
+
+Für Scheme ist http://schemers.org[schemers.org] die Seite, die als 
+allgemeiner Einstieg dient und http://community.schemerswiki.org der
+von der Community gestaltete Ort zum Wissensaustausch.
+
+* IRC und Mailinglisten
+* Stackoverflow 
+
+Scheme Request for Implementation
+---------------------------------
+Über kurz oder lang begegnet einem Lernenden auch das Kürzel srfi.
+Ausgesprochen wird es surfie und angesurft werden kann das, was sich dahinter
+verbirgt uter http://srfi.schemers.org/ . Mindestens 100 dieser Dokumente sind
+dort zu finden und das ist ein interessantes Kontrastprogramm zum CPAN und
+anderen Bibliotheken. In Scheme heißt es schreib - wenn dich interessiert
+wie andere es schreiben würden, kannst du hier nachsehen. Viele Dokumente
+sind zum Glück bereits ein Teil der Bibliotheken für Scheme geworden. In
+Softwaredeutsch würde man das als documentation first Vorgehensmodell bezeichnen.
+Von einem objektiven Standpunkt betrachtet, sicher nicht der schlechteste
+Weg eine Standardbiliothek aufzubauen.
+ 
+Datentypen
+----------
+* Zahl
+* String
+* Symbol
+* Funktion
+* Boolean
+
+Implementierungen
+-----------------
+*vicare*:: Die r6rs Implentierung für x86 - Prozessoren.
+*chicken*:: Ein r5rs Scheme, welches nach C übersetzen kann und damit sehr
+vielseitig einsetzbar ist.
+*racket*:: Bietet die Möglichkeit viele Varianten der Scheme Sprachfamilie
+auszuprobieren. Gestartet als Werkzeug für die Ausbildung, unter dem Namen
+DrScheme ist es nun eine professionell verwendbare Entwicklungsumgebung.
+ 
+Mehr Funktionen
+---------------
+
+*apply*::
+  Das Beispiel ist der R6RS Spezifikation von Scheme entnommen.  
+
+  (define compose
+    (lambda (f g)
+      (lambda args
+        (f (apply g args)))))
+
+  Die Variablen g und f müssen vom Typ Funktion sein.

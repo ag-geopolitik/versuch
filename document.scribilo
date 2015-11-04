@@ -1,0 +1,80 @@
+(document
+   :title [Eine Buch über programmieren in Scheme]
+   :author [Sebastian Bernhard Knapp]
+
+(chapter
+   :title [Warum ich dieses Buch schreibe?]
+(
+Programmiersprachen sind ein möglicher Weg der Kommunikation
+zwischen Mensch und Computer. Es ist ein Weg, welcher nur geringe
+technischen Vorraussetzungen benötigt (footnote 
+   (
+   Einfache Programmiersprachen wie BASIC oder Forth sind in 
+   wenigen Kilobyte realisierbar, bieten aber gegenüber der
+   Maschinensprache ein höheres Abstraktionsniveau.
+   )).
+In der Geschichte der programmierbaren Rechenanlagen haben sich 
+Programmiersprachen schon sehr früh entwickelt um eine abstraktere, 
+problemorientierte Form der Steuerung verwenden zu können. Scheme
+ist eine Sprache aus dem Zweig der LISP artigen Sprachen. Das Buch
+entsteht mit Hilfe von Scheme.
+))
+(chapter
+   :title [Geschichte]
+(
+Lisp ist eine der ältesten Programmiersprachen überhaupt. Im Jahr
+1958 enstand es aus ersten Versuchen, mit Funktionen die
+rekursiv weitere Funktionen auswerten. Die Programme wurden als Listen deren
+Teile wieder Listen sind, geschrieben. Daher der Name Lisp, was für "LISt Processing"
+also das Verarbeiten von Listen steht. Dieses Konzept ist sehr universell,
+was Lisp zu einer gerne verwendeten Basis für weitere Forschungen in vielen
+verschiedenen Bereichen der noch jungen Wissenschaft der Informatik machte,
+insbesondere aber dem Gebiet der künstlichen Intelligenz.
+)
+(
+Diese Vielfalt an Einsatzmöglichkeiten führte dazu, dass es das LISP als
+als einheitliche Programmiersprache nicht gab. Es war vielmehr ein Konzept
+das in verschiedenen Implementierungen umgesetzt wurde. Das hatte den
+Vorteil, das jede Variante, für den jeweiligen Zweck optimiert werden konnte.
+)
+( 
+Die Entwickler von Scheme wollten eine Sprache die einen kleinen
+Umfang besitzt, aber flexibel für alle allgemeinen Aufgaben einsetz-
+und anpassbar ist. Der Grundstein für den Entwurf der Sprache war
+ein wissenschaftlicher Aufsatz mit dem Titel
+"An Interpreter for Extended Lambda Calculus" im Jahr 1975 von
+Gerald Jay Sussman und Guy Lewis Steele Jr.. 
+))
+(chapter
+    :title [Syntax]
+(
+Der Syntax von Scheme ist sehr kompakt. Die syntaktische Grundeinheit
+wird Form genannt und besteht aus einem Paar Klammern, wobei runde
+oder eckige Klammernpaare verwendet werden, einem vorher definierten
+Bezeichner und beliebig vielen Argumenten, die alle von dem Klammernpaar
+eineschlossen sind.
+)
+(
+Das Semikolon ist das Zeichen mit dem Kommentare eingeleitet werden.
+Wird es nicht innerhalb eines Strings verwendet, gilt der Rest der
+Zeile als Kommentar.
+)
+(
+Für Bezeichner sind fast alle Zeichen erlaubt. Eine von meheren
+Koventionen ist, dass der Bindestrich und nicht der Unterstrich
+verwendet wird, eine andere das Funktionen welche einen Wahrheitswert
+liefern ein Fragezeichen am Ende haben.
+))
+)
+
+(Quellen:
+  ["Exploring Programming Language Architecture in Perl"
+   "Bill Hails" 2010]
+  ["Graphen für Einsteiger"
+   "Manfred Nitzsche" 2009]
+  ["Introduction of machine learning"
+   "Nils J. Nilsen" 1998]
+)
+
+(define xor ;; parity
+  (lambda (x y) (or (and x (not y)) (and y (not x))))) 
