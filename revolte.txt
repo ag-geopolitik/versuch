@@ -6,7 +6,7 @@ Die Welt verstehen, heißt die Welt verändern. Ist das
 schon die Veränderung? Optimist*innen wissen, Anarchie ist
 auch im _/wir/_ Revolte, aber auch erst Anfang.
 
-\marginpar[1]{Worauf kommt es an?}
+\marginpar[0]{Worauf kommt es an?}
 
 Meine Perspektive auf diese Welt ist oft sehr technokratisch.
 Um Institutionen zu hinterfragen muss ein Weg gefunden werden,
