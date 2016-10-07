@@ -23,8 +23,10 @@ STATIC=\
 
 INCLUDES=\
     arbeitundleben.tex \
+    arendt.tex \
     eigentum.tex \
     entwicklung.tex \
+    evolution.tex \
     fragen.tex \
     heute.tex \
     identity.tex \
