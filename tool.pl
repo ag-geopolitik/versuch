@@ -10,6 +10,7 @@ my $errors = 0;
 
 sub escape {
    $lines =~ s/(\$|\&)/\\$1\{\}/g;
+   $lines =~ s/"/"'/g;
 }
 
 sub zitate {

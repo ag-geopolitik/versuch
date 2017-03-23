@@ -54,7 +54,7 @@ von oben diktiert werden.
 Die regionale Verteilung technischer Innovation wird zum Beispiel 
 in der Einheit von Patenten pro eine Mio. Einwohner angegeben. Das 
 ist ein Maß, um Innovation in güterproduzierenden Wirtschaftszweigen, 
-die in stätischen Gebieten konzentriert sind, zu messen. Innovation
+die in städtischen Gebieten konzentriert sind, zu messen. Innovation
 in Landwirtschaft, Touristik und Dienstleistungen lässt sich so
 nicht bestimmen, sondern dafür müssen andere Parameter gefunden 
 werden. Die in Patenten messbare Innovation ist darüber hinaus

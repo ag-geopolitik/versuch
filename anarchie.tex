@@ -13,10 +13,26 @@
 % \usepackage{quotchap}
 \usepackage{glossaries}
 
-\providecommand\chapter[1]{\section{#1}}
+% drop numbering headings
+\usepackage{titlesec}
+\titlelabel{\quad}
+%\titleformat{name=\section}
+%  {\normalfont\Large\bfseries}   % The style of the section title
+%  {}                             % a prefix
+%  {0pt}                          % How much space exists between the prefix and the title
+%  {}   
+
+%\providecommand\chapter[1]{\section{#1}}
 %\newcommand\part[1]{\section{#1}}
 \input{hyphenation.tex}
 
+\newcommand\strong[1]{{\Large\bfseries{#1}}}
+
+
+%\renewcommand\section[1]{\section* #1}
+%\renewcommand\subsection[1]{\subsection* #1}
+%\renewcommand{\@seccntformat}[1]{\csname the#1\endcsname\quad}
+    
 \makeglossaries
 
 \begin{document}
@@ -38,7 +54,11 @@
 
 \input{poem.tex}
 
+\strong{Fluchtwege}
+
 \input{armut.tex}
+
+\input{garten.tex}
 
 Lesenswert
 ----------
